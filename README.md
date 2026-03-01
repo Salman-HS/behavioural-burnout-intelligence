@@ -4,6 +4,20 @@ Early Detection of Academic Disengagement using Behavioural Analytics
 
 ---
 
+## 📊 Dashboard Preview
+
+### 🔎 System Overview
+
+<p align="center">
+  <img src="assets/dashboard_overview.png" width="900">
+</p>
+
+### 📈 Behavioural Timeline Monitoring
+
+<p align="center">
+  <img src="assets/dashboard_timeline.png" width="900">
+</p>
+
 ## Problem Overview
 
 Student burnout and academic disengagement often go unnoticed until performance significantly declines. 
